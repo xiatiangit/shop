@@ -1,0 +1,9 @@
+所需技术：
+html5,
+css3,
+vant-ui,
+vue-cli,
+vuex,
+vue-router,
+less,
+axios
